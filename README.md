@@ -46,7 +46,7 @@ pod "Feeder"
 
 ## Author
 
-tnantoka, tnantoka@bornneet.com
+tnantoka
 
 ## License
 
