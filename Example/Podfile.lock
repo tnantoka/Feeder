@@ -1,0 +1,14 @@
+PODS:
+  - Feeder (0.1.0)
+
+DEPENDENCIES:
+  - Feeder (from `../`)
+
+EXTERNAL SOURCES:
+  Feeder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Feeder: 2c50c4daaedbdf7f61aab64bad3fa8a14169e63f
+
+COCOAPODS: 0.39.0
